@@ -1,6 +1,6 @@
 # Awesome-Corporate-Legal-Entity-Contract-Management
 
-# Top Corporate & Legal Entity Contract Management Ecosystem
+## Top Corporate & Legal Entity Contract Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Entity Governance, Subsidiary Compliance & Contractual Obligation Tracking*  

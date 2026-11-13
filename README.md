@@ -77,7 +77,7 @@ The global Contract Lifecycle Management (CLM) and Legal Entity Management softw
 
 *Open-source projects sorted descending by GitHub stargazers count.*
 
-| 📦 Repository | 🌟 Star Badge | 📜 Description & Governance Capabilities |
+| 📦 Repository | 🌟 Stars_Badge | 📜 Description & Governance Capabilities |
 |--------------|--------------|------------------------------------------|
 | **[Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** | [![Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers) | **The open document intelligence platform for builders and legal teams.** Document management system (DMS) and contract analytics engine for the AI/agentic era. Provides automated PDF parsing, layout-aware vector search, structural data extraction, and fine-grained annotation tracking across complex enterprise agreements. |
 | **[jhpyle/docassemble](https://github.com/jhpyle/docassemble)** | [![Stars](https://img.shields.io/github/stars/jhpyle/docassemble?style=social&color=white)](https://github.com/jhpyle/docassemble/stargazers) | **Open-source expert system for guided legal interviews and corporate document assembly.** Powered by Python, YAML, and Markdown. Extensively adopted by legal aid and corporate legal operations for generating complex multi-entity incorporation documents, statutory compliance forms, and custom contracting workflows. |
